@@ -48,31 +48,31 @@ Description
 
 Load raw CSVs, clean text and numbers
 
-2. Feature Extraction
+### 2. Feature Extraction
 
 Extract structured features & price metrics
 
-3. Embeddings
+### 3. Embeddings
 
 Use BERT to generate text embeddings
 
-4. Writing Style
+### 4. Writing Style
 
 Cluster seller styles (optional)
 
-5. Proxy Labeling
+### 5. Proxy Labeling
 
 Create synthetic ranking scores
 
-6. Modeling
+### 6. Modeling
 
 Train model to predict scores
 
-7. Ranking
+### 7. Ranking
 
 Sort ads by predicted rank
 
-8. Streamlit App
+### 8. Streamlit App
 
 UI for ranking and exploring listings
 
