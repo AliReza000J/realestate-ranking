@@ -6,7 +6,7 @@ A full pipeline project to **rank anonymized Persian real estate ads** using a c
 
 ## 🌟 Project Goals
 
-Democratize access to Persian NLP resources.
+Democratize access to **Persian NLP** resources.
 
 Build a public benchmark for ranking real estate ads.
 
@@ -32,7 +32,7 @@ Enable AI-driven search and summarization of property ads.
 
 ✅ Text descriptions, numeric fields (price, area, region, etc.)
 
-✅ Publicly available on HuggingFace by Divar
+✅ Publicly available on HuggingFace by **Divar**
 
 **https://huggingface.co/datasets/divaroffical/real_estate_ads**
 
@@ -44,7 +44,7 @@ Phase
 
 Description
 
-1. Data Cleaning
+### 1. Data Cleaning
 
 Load raw CSVs, clean text and numbers
 
