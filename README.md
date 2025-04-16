@@ -34,6 +34,18 @@ Enable AI-driven search and summarization of property ads.
 
 ✅ Publicly available on HuggingFace
 
+```
+
+@dataset{divar2025realestate,
+  author = {Divar Corporation},
+  title = {Real Estate Ads Dataset from Divar Platform},
+  year = {2025},
+  publisher = {Hugging Face},
+  url = {https://huggingface.co/datasets/divar/real-estate-ads}
+}
+
+```
+
 ---
 
 ## 🧠 What This Project Does
