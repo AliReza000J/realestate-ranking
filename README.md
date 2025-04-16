@@ -135,13 +135,9 @@ pip install -r requirements.txt
 
 ## 🚀 Quickstart
 
-```
-
 Run the Streamlit app after training:
 
 streamlit run app/app.py
-
-```
 
 ---
 
