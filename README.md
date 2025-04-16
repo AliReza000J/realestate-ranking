@@ -1,8 +1,8 @@
-Real Estate Listings Ranking using NLP, ML & LLM
+# Real Estate Listings Ranking using NLP, ML & LLM
 
 A full pipeline project to rank anonymized Persian real estate ads using a combination of structured features, LLM-based text embeddings, and machine learning models.
 
-🌟 Project Goals
+## 🌟 Project Goals
 
 Democratize access to Persian NLP resources.
 
@@ -10,7 +10,7 @@ Build a public benchmark for ranking real estate ads.
 
 Combine machine learning + text understanding for quality scoring.
 
-💡 Use Cases
+## 💡 Use Cases
 
 Rank and filter listings by quality, trust, and clarity.
 
@@ -20,7 +20,7 @@ Analyze seller writing styles and ad effectiveness.
 
 Enable AI-driven search and summarization of property ads.
 
-📦 Dataset
+## 📦 Dataset
 
 ✅ 1 million anonymized real estate listings in Persian
 
@@ -28,7 +28,7 @@ Enable AI-driven search and summarization of property ads.
 
 ✅ Publicly available on HuggingFace
 
-🧠 What This Project Does
+## 🧠 What This Project Does
 
 Phase
 
@@ -66,7 +66,7 @@ Sort ads by predicted rank
 
 UI for ranking and exploring listings
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 
 Python 3.10+
 
@@ -80,7 +80,7 @@ Streamlit: front-end for search and display
 
 SHAP (optional): to interpret model predictions
 
-📁 Project Structure
+## 📁 Project Structure
 
 realestate_ranking/
 ├── data/                  # Raw + cleaned data
@@ -97,29 +97,28 @@ realestate_ranking/
 ├── requirements.txt       # Project dependencies
 └── README.md              # Project documentation
 
-⚙️ Installation
+## ⚙️ Installation
 
-git clone https://github.com/yourusername/realestate-ranking
+git clone https://github.com/AliReza000J/realestate-ranking
 cd realestate-ranking
 pip install -r requirements.txt
 
-🚀 Quickstart
+## 🚀 Quickstart
 
 Run the Streamlit app after training:
 
 streamlit run app/app.py
 
-🤝 Contributions
+## 🤝 Contributions
 
 Pull requests, ideas, and collaborations are welcome!
 
-📜 License
+## 📜 License
 
 MIT License.
 
-📬 Contact
+## 📬 Contact
 
 Built with ❤️ to empower the Persian AI community.
 
-Feel free to reach out on GitHub or [your_email@example.com].
-
+Feel free to reach out on GitHub or [AlirezaAbri61@gmail.com].
