@@ -32,19 +32,9 @@ Enable AI-driven search and summarization of property ads.
 
 ✅ Text descriptions, numeric fields (price, area, region, etc.)
 
-✅ Publicly available on HuggingFace
+✅ Publicly available on HuggingFace by Divar
 
-```
-
-@dataset{divar2025realestate,
-  author = {Divar Corporation},
-  title = {Real Estate Ads Dataset from Divar Platform},
-  year = {2025},
-  publisher = {Hugging Face},
-  url = {https://huggingface.co/datasets/divar/real-estate-ads}
-}
-
-```
+**https://huggingface.co/datasets/divaroffical/real_estate_ads**
 
 ---
 
