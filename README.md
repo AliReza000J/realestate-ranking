@@ -32,9 +32,7 @@ Enable AI-driven search and summarization of property ads.
 
 ✅ Text descriptions, numeric fields (price, area, region, etc.)
 
-✅ Publicly available on HuggingFace by **Divar**
-
-**https://huggingface.co/datasets/divaroffical/real_estate_ads**
+✅ Publicly available on [HuggingFace](https://huggingface.co/datasets/divaroffical/real_estate_ads) by **Divar**
 
 ---
 
@@ -114,7 +112,11 @@ pip install -r requirements.txt
 
 Run the Streamlit app after training:
 
+```
+
 streamlit run app/app.py
+
+```
 
 ---
 
