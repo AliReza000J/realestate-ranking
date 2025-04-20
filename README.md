@@ -32,7 +32,7 @@ Enable AI-driven search and summarization of property ads.
 
 ✅ Text descriptions, numeric fields (price, area, region, etc.)
 
-✅ Publicly available on [HuggingFace](https://huggingface.co/datasets/divaroffical/real_estate_ads) by **Divar**
+✅ Publicly available on [HuggingFace](https://huggingface.co/datasets/divaroffical/real_estate_ads) by [**Divar**](https://divar.ir/)
 
 ---
 
