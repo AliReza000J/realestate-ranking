@@ -41,13 +41,14 @@ Enable AI-driven search and summarization of property ads.
 | Phase            | Description                                 |
 |------------------|---------------------------------------------|
 | 1. Data Cleaning | Load raw CSVs, clean text and numbers       |
-| 2. Feature Extraction | Extract structured features & price metrics |
-| 3. Embeddings     | Use BERT to generate text embeddings       |
-| 4. Writing Style  | Cluster seller styles (optional)           |
-| 5. Proxy Labeling | Create synthetic ranking scores            |
-| 6. Modeling       | Train model to predict scores              |
-| 7. Ranking        | Sort ads by predicted rank                 |
-| 8. Streamlit App  | UI for ranking and exploring listings      |
+| 2. Data Visualization | Visualize data for EDA
+| 3. Feature Extraction | Extract structured features & price metrics |
+| 4. Embeddings     | Use BERT to generate text embeddings       |
+| 5. Writing Style  | Cluster seller styles (optional)           |
+| 6. Proxy Labeling | Create synthetic ranking scores            |
+| 7. Modeling       | Train model to predict scores              |
+| 8. Ranking        | Sort ads by predicted rank                 |
+| 9. Streamlit App  | UI for ranking and exploring listings      |
 
 ---
 
