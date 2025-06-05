@@ -44,7 +44,7 @@ Enable AI-driven search and summarization of property ads.
 | 2. Data Visualization | Visualize data for EDA
 | 3. Feature Extraction | Extract structured features & price metrics |
 | 4. Embeddings     | Use BERT to generate text embeddings       |
-| 5. Writing Style  | Cluster seller styles (optional)           |
+| 5. Writing Style  | Cluster seller styles                      |
 | 6. Proxy Labeling | Create synthetic ranking scores            |
 | 7. Modeling       | Train model to predict scores              |
 | 8. Ranking        | Sort ads by predicted rank                 |
